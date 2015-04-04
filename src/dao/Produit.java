@@ -2,7 +2,7 @@ package dao;
 
 public class Produit {
 	
-	
+	// commentaire
 	private Long idProduit;
 	private String nom;
 	private String description;
